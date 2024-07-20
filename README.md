@@ -2,7 +2,7 @@
 
 The project aims to optimize the marketing funnel for a video platform by analyzing data and suggesting strategies for conversion improvement and budget allocation.
 
-###Project Overview
+##Project Overview
 In this project, we will analyze the raw data of a PPC campaign for a video creator platform that enables any content creator/ company to create compelling video content from templates and does not require expert knowledge. Our aim is to analyze the data and come up with a top converting funnel and a matching budget for the next PPC campaign of the same product.
 
 ###Tasks Breakdown
